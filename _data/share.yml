@@ -18,7 +18,7 @@ platforms:
   #
   - type: Linkedin
     icon: "fab fa-linkedin"
-    link: "https://www.linkedin.com/in/maur%C3%ADcio-catanio-6359671b2/"
+    link: "https://www.linkedin.com/sharing/share-offsite/?url=URL"
   
   # - type: Weibo
   #   icon: "fab fa-weibo"
