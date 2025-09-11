@@ -12,7 +12,7 @@ Esses dias tivemos uma aula magna na UFFS, falando sobre IA e o futuro da humani
 
 Ao final da palestra, questionei se os avanços tecnológicos de fato significaram mais dignidade, lembrando da literatura cyberpunk. Mundos com carros voadores, chips que ampliam cérebros, mas ainda marcados por fome, violência e pelo controle corporativo. A resposta veio com indicadores: mortalidade infantil em queda, diminuição da pobreza e expectativa de vida em alta.
 
-Alguns desses dados são questionáveis: A pobreza inclusive se acentua, segundo métricas da worldBank [^pooverty-evaluation] e a medicina moderna (como o métodos cirúrgicos para cesária, e a descoberta de antibióticos), ainda é restrita a quem pode pagar por ela.
+Alguns desses dados são questionáveis: A pobreza inclusive se acentua, segundo métricas da worldBank [^poverty-evaluation] e a medicina moderna (como o métodos cirúrgicos para cesária, e a descoberta de antibióticos), ainda é restrita a quem pode pagar por ela.
 
 Na realidade, temos em curso genocídios planejados com IA e executados por drones[^gaza-IA]. A Indústria do petróleo financia desinformação enquanto sabendo que está minando o clima em escala global. A automação não impede que alimentos sejam destruídos para manter uma alta de preços artificial. No Brasil, há mais casa sem pessoas do que pessoas sem casas.
 
@@ -24,5 +24,5 @@ A ideia de que a tecnologia trará um futuro de ócio criativo é promissora. A 
 
 **Se a tecnologia é a linguagem do presente, nosso papel é usá-la para escrever histórias diferentes, onde pessoas não são números, commodities ou descartáveis.** Talvez nossa tarefa como estudantes e cientistas seja romper com a ideia de que o futuro já está programado por outros, e lembrar que tecnologia não é destino. É diálogo e disputa.
 
-[^pooverty-evaluation]: ["Progress and its discontents"](https://newint.org/features/2019/07/01/long-read-progress-and-its-discontents#behind-the-numbers)
+[^poverty-evaluation]: ["Progress and its discontents"](https://newint.org/features/2019/07/01/long-read-progress-and-its-discontents#behind-the-numbers)
 [^gaza-IA]: [Seleção de alvos por inteligência artificial na Faixa de Gaza](https://en.wikipedia.org/wiki/AI-assisted_targeting_in_the_Gaza_Strip)
