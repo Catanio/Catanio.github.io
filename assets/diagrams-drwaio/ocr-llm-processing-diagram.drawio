@@ -1,0 +1,52 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.1">
+  <diagram name="Page-1" id="5bw580G9aCtz779SQaY9">
+    <mxGraphModel dx="863" dy="477" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="aClGwB7hyaJqNDOlhmau-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;fontSize=11;strokeWidth=1;endSize=6;startSize=4;" edge="1" parent="1" source="aClGwB7hyaJqNDOlhmau-1" target="aClGwB7hyaJqNDOlhmau-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aClGwB7hyaJqNDOlhmau-1" value="&lt;b&gt;Input:&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Certificates&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 7px;&quot;&gt;(pdfs, docx, pptx, images)&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="100" y="320" width="120" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="aClGwB7hyaJqNDOlhmau-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;" edge="1" parent="1" source="aClGwB7hyaJqNDOlhmau-2" target="aClGwB7hyaJqNDOlhmau-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aClGwB7hyaJqNDOlhmau-2" value="&lt;b&gt;Reading &amp;amp; OCR&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Docling&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="260" y="330" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="aClGwB7hyaJqNDOlhmau-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;" edge="1" parent="1" source="aClGwB7hyaJqNDOlhmau-4" target="aClGwB7hyaJqNDOlhmau-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aClGwB7hyaJqNDOlhmau-4" value="&lt;b&gt;Data normalization &amp;amp; structuring&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#e1d5e7;strokeColor=#9673a6;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="425" y="330" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="aClGwB7hyaJqNDOlhmau-6" value="&lt;b&gt;Output&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Searchable CSV database&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="590" y="330" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="aClGwB7hyaJqNDOlhmau-9" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Bootstrap_Vol_3-2297/filetype-pdf-1006.svg" vertex="1" parent="1">
+          <mxGeometry x="133.75" y="355" width="25" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="aClGwB7hyaJqNDOlhmau-13" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.mscae.other.powerpoint;fillColor=#DE5D24;" vertex="1" parent="1">
+          <mxGeometry x="161.25" y="355" width="25" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="aClGwB7hyaJqNDOlhmau-15" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Document_icons-2697/647719-word-1212.svg" vertex="1" parent="1">
+          <mxGeometry x="163.75" y="390" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="aClGwB7hyaJqNDOlhmau-17" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.communications.discovery_search_mailbox;" vertex="1" parent="1">
+          <mxGeometry x="303.16" y="370" width="33.67" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aClGwB7hyaJqNDOlhmau-18" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#ED7100;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.container_registry_image;" vertex="1" parent="1">
+          <mxGeometry x="133.75" y="390" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="aClGwB7hyaJqNDOlhmau-20" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.csv_file;" vertex="1" parent="1">
+          <mxGeometry x="463.91" y="384.62" width="42.19" height="30.75" as="geometry" />
+        </mxCell>
+        <mxCell id="aClGwB7hyaJqNDOlhmau-28" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Document_icons-2697/647702-excel-1195.svg" vertex="1" parent="1">
+          <mxGeometry x="635" y="367" width="30" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
