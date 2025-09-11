@@ -3,7 +3,7 @@ layout: post
 title: 'O Básico bem feito: Transformando dados desorganizados em oportunidades'
 date: 2025-09-09 14:17 -0300
 categories: [Projetos, Ciência de Dados]
-tags: [Automação de Processos, Ciência de Dados, Inteligência Artificial, LLM, OCR, Python, Gestão de Dados, Transformação Digital,SST (Saúde e Segurança do Trabalho)]
+tags: [Automação de Processos, Ciência de Dados, Inteligência Artificial, LLM, OCR, Python, Gestão de Dados, Transformação Digital, SST (Saúde e Segurança do Trabalho)]
 ---
 
 ## Introdução e o problema:
