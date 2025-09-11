@@ -12,7 +12,7 @@ Esses dias tivemos uma aula magna na UFFS, falando sobre IA e o futuro da humani
 
 Ao final da palestra, questionei se os avanços tecnológicos de fato significaram mais dignidade, lembrando da literatura cyberpunk. Mundos com carros voadores, chips que ampliam cérebros, mas ainda marcados por fome, violência e pelo controle corporativo. A resposta veio com indicadores: mortalidade infantil em queda, diminuição da pobreza e expectativa de vida em alta.
 
-Alguns desses dados são questionáveis: A pobreza inclusive se acentua, segundo métricas da worldBank [^poverty-evaluation] e a medicina moderna (como o métodos cirúrgicos para cesária, e a descoberta de antibióticos), ainda é restrita a quem pode pagar por ela.
+Alguns desses dados são questionáveis: A pobreza inclusive se acentua, segundo métricas da worldBank [^poverty-evaluation] e a medicina moderna (como os métodos cirúrgicos para cesárea e a descoberta de antibióticos), ainda é restrita a quem pode pagar por ela.
 
 Na realidade, temos em curso genocídios planejados com IA e executados por drones[^gaza-IA]. A Indústria do petróleo financia desinformação enquanto sabendo que está minando o clima em escala global. A automação não impede que alimentos sejam destruídos para manter uma alta de preços artificial. No Brasil, há mais casa sem pessoas do que pessoas sem casas.
 
