@@ -8,7 +8,7 @@ tags: [Automação de Processos, Ciência de Dados, Inteligência Artificial, LL
 
 ## Introdução e o problema:
 
-Dados são um dos ativos mais valiosos de empresas hoje em dia. Prospecção de clientes, levantamento de informações sobre funcionários, gestão e relacionamento com clientes, dados fiscais, informações e previsões financeiras, entre outras coisas. Tudo isso é uma mina de ouro e um ativo crucial para a empresa - se devidamente estruturado.
+Dados são hoje um dos ativos mais valiosos das empresas. Eles aparecem em diferentes frentes: prospecção de clientes, gestão de funcionários, relacionamento comercial, notas fiscais, previsões financeiras, entre outros. Tudo isso é mina de ouro e ativo crucial para a empresa - se devidamente estruturado.
 
 Uma empresa de Saúde e Segurança do trabalho (SST) procurou-me para encontrar soluções que ajudassem a organizar uma série de dados, solucionando alguns problemas que eles tinham e melhorando outros produtos já existentes. Embora não seja uma empresa grande, o volume de clientes é suficiente para ocupar toda a equipe. Ainda assim, não tem porte para manter um setor dedicado de T.I. e processos. Tudo ficava em processos manuais, dependia da intuição da equipe e variava conforme a urgência.
 
@@ -71,7 +71,7 @@ Como as linhas são geradas a partir do .md, também consigo usá-lo como inform
 
 Cada arquivo de certificados processado gerou uma ou mais linha em um arquivo CSV, com arquivo origem (para conferência), dados do trabalhador e do cecrtificado. Esse arquivo se torna, na prática, conjunto de dados estruturado e pesquisável que a empresa precisava. Pode ser importado em diferentes arquivos de planílias, banco de dados ou mesmo algum sistema de ERP ou CRM.
 
-### Considerações técnicas:
+### Considerações:
 
 Como as etapas envolvem lotes de arquivos e longos períodos de processamento, é importante ter um tratamento de erros relativamente seguro. Isso envolve pensar preemptivamente nos erros possíveis, além dos mais comuns (problemas com pastas e nomes de arquivos), até em alguns menos previsíveis (um pdf do curso em meio de certificados!). Ter um fallback e logar esses erros foi fundamental pra, ao longo de 3 ou 4 iterações, garantir a qualidade da entrega dos dados.
 
